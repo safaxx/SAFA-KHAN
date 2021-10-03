@@ -2,7 +2,7 @@
 - 👀 I’m pursuing B.Tech in Computer Science & Information Technology
 - 🌱 I’m currently learning Data Analysis skills (SQL, Python, Tableau, Excel)
 - 📫 How to reach me 
-LinkedIn: linkedin.com/in/safax/
+LinkedIn: www.linkedin.com/in/safax/
 
 <!---
 safaxx/safaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
