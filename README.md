@@ -2,6 +2,8 @@
 - 👀 I’m pursuing B.Tech in Computer Science & Information Technology
 - 🌱 I’m currently learning Data Analysis skills (SQL, Python, Tableau, Excel)
 - 📫 How to reach me 
+
+
 LinkedIn: www.linkedin.com/in/safax/
 
 <!---
