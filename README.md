@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Safa Khan
 - 👀 I’m pursuing B.Tech in Computer Science & Information Technology
-- 🌱 I’m currently learning Data Analysis skills (SQL, Python, Tableau, Excel)
+- 🌱 I’m currently learning Data Analysis skills (SQL, Python, Power BI, Excel, EDA)
 - 📫 How to reach me 
 
 
