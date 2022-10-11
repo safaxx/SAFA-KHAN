@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Safa Khan
-- 👀 I’m pursuing B.Tech in Computer Science & Information Technology
+- 👀 I’ve graduated with a B.Tech in Computer Science & Information Technology
 - 🌱 I’m currently learning Data Analysis skills (SQL, Python, Power BI, Excel, EDA)
 - 📫 How to reach me 
 
 
-LinkedIn: www.linkedin.com/in/safax/
+[LinkedIn](www.linkedin.com/in/safax/)
 
 <!---
 safaxx/safaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
